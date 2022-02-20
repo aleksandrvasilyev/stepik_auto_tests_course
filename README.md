@@ -1,5 +1,3 @@
 # stepik_auto_tests_course
 
-test
-test2
-stepik course automation on selenium and python
+Домашние работы по курсу "Автоматизация тестирования с помощью Selenium и Python"
